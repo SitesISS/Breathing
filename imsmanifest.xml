@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6nDqlSTzDOi_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Breathing Ventilation</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Breathing_Ventilation_ORG">
+    <organization identifier="Breathing_Ventilation_ORG">
+      <title>Breathing Ventilation</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__6nDqlSTzDOi_course_id_RES">
+        <title>Breathing Ventilation</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6nDqlSTzDOi_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6FtmZTbeft7_P_340_51_607_244.jpg" />
+      <file href="story_content/WebObjects/5xLilP4qJLa/index.htm" />
+      <file href="story_content/WebObjects/5xLilP4qJLa/v1.mp4" />
+      <file href="mobile/5xLilP4qJLa5t2uGYqHGYu{Width=700, Height=520}Light.png" />
+      <file href="mobile/6B77ghyNWoc_M_1384_1384_P_0_0_433_900.png" />
+      <file href="mobile/6Q7yHlhT6OS.png" />
+      <file href="mobile/6Go4CESNwDy_P_511_124_473_450.png" />
+      <file href="mobile/5ruBmf79Lec_M_938_938.png" />
+      <file href="story_content/WebObjects/6Hu24CpHLLe/index.htm" />
+      <file href="story_content/WebObjects/6Hu24CpHLLe/v2.mp4" />
+      <file href="story_content/WebObjects/6Hu24CpHLLe/v2edit.mp4" />
+      <file href="mobile/6Hu24CpHLLe6C33VM32SZA{Width=700, Height=520}Light.png" />
+      <file href="story_content/WebObjects/5xt9UjPqFx1/index.html" />
+      <file href="mobile/5xt9UjPqFx169896R1sztu{Width=700, Height=520}Light.png" />
+      <file href="story_content/WebObjects/6LxDLmrml2l/index.htm" />
+      <file href="story_content/WebObjects/6LxDLmrml2l/v3.mp4" />
+      <file href="mobile/6LxDLmrml2l5hSiWLxKovt{Width=700, Height=520}Light.png" />
+      <file href="story_content/WebObjects/6I09EVcRbR0/index.htm" />
+      <file href="story_content/WebObjects/6I09EVcRbR0/v4.mp4" />
+      <file href="mobile/6I09EVcRbR06VN77LHx4IK{Width=700, Height=520}Light.png" />
+      <file href="mobile/62SyVb9dhyc_X_P_0_0_1127_1185.png" />
+      <file href="story_content/WebObjects/5kKre5wZDwP/index.htm" />
+      <file href="story_content/WebObjects/5kKre5wZDwP/v5.mp4" />
+      <file href="mobile/5kKre5wZDwP5tNSUdEnuaM{Width=700, Height=520}Light.png" />
+      <file href="mobile/5V7oAxF5qyD_80.jpg" />
+      <file href="mobile/5ixeXEyv3j4_80.jpg" />
+      <file href="mobile/5ixeXEyv3j4_X_80.jpg" />
+      <file href="mobile/6Ex3qPK6JON_80.jpg" />
+      <file href="story_content/WebObjects/5jRGQ2jai6j/index.html" />
+      <file href="mobile/5jRGQ2jai6j6huhabNTVZH{Width=700, Height=520}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aJXEehrucR.js" />
+      <file href="html5/data/js/5c9mZQvq7bs.js" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5dkWMTth1G6.js" />
+      <file href="html5/data/js/5gnUfXn9ggC.js" />
+      <file href="html5/data/js/5kuN4g4msIL.js" />
+      <file href="html5/data/js/5kXtCLJOghi.js" />
+      <file href="html5/data/js/5ltqQ2KeVG1.js" />
+      <file href="html5/data/js/5nGc7tmf5dn.js" />
+      <file href="html5/data/js/5urmvjYrY53.js" />
+      <file href="html5/data/js/5vAddnVIFL4.js" />
+      <file href="html5/data/js/5XHI69gv1NL.js" />
+      <file href="html5/data/js/5zx4vc6sm1l.js" />
+      <file href="html5/data/js/60BsbW5eH7o.js" />
+      <file href="html5/data/js/64ABaN2tQO9.js" />
+      <file href="html5/data/js/6D7TmyTFVW7.js" />
+      <file href="html5/data/js/6JeqM1TEd6p.js" />
+      <file href="html5/data/js/6jn5v8pnM0a.js" />
+      <file href="html5/data/js/6lg19jheWWz.js" />
+      <file href="html5/data/js/6p4oLkFqxBs.js" />
+      <file href="html5/data/js/6QKpX2uvVCW.js" />
+      <file href="html5/data/js/6SUxLBOnNWu.js" />
+      <file href="html5/data/js/6WVb5LInlL4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
